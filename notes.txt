@@ -1,1 +1,2 @@
 This is my first Git practical.
+Git tracks changes using commits.
